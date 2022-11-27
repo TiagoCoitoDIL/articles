@@ -1,0 +1,18 @@
+theme: jekyll-theme-minimal
+
+# Site wide configuration
+
+title: Tiago Coito
+locale: en_US
+logo: images/logo.svg
+
+# Enter the following platform usernames if you would like for them to appear on your site.
+owner:
+  name: Tiago Coito
+  avatar: images/img.png
+  bio: ""
+  email: tiago.coito@doitlean.com
+  # Do not include the @ symbol in your Twitter username
+  twitter: TiagoCoito
+  linkedin: https://www.linkedin.com/in/tiago-coito/
+  github: TiagoCoitoDIL
