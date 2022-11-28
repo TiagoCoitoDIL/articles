@@ -3,3 +3,5 @@
 ## AWS re:Invent 2022
 
 - ### [Day 0](./posts/2022-11-26-AWS.md)
+- ### [Day 1 - Sunday, Nov. 27](./posts/2022-11-27-AWS.md)
+
